@@ -1,0 +1,9 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\MTP10_TIENTV\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\MTP10_TIENTV\\.nuget\\packages",
+      "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet"
+    ]
+  }
+}
