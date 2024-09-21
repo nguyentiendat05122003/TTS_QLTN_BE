@@ -177,3 +177,421 @@ E:\Flutter\APIPCHY(chuan)\APIPCHY\APIDA\obj\Debug\net7\refint\APIPCHY.dll
 E:\Flutter\APIPCHY(chuan)\APIPCHY\APIDA\obj\Debug\net7\APIPCHY.pdb
 E:\Flutter\APIPCHY(chuan)\APIPCHY\APIDA\obj\Debug\net7\APIPCHY.genruntimeconfig.cache
 E:\Flutter\APIPCHY(chuan)\APIPCHY\APIDA\obj\Debug\net7\ref\APIPCHY.dll
+D:\WEB_API\APIDA\bin\Debug\net7\appsettings.Development.json
+D:\WEB_API\APIDA\bin\Debug\net7\appsettings.json
+D:\WEB_API\APIDA\bin\Debug\net7\APIPCHY.exe
+D:\WEB_API\APIDA\bin\Debug\net7\APIPCHY.deps.json
+D:\WEB_API\APIDA\bin\Debug\net7\APIPCHY.runtimeconfig.json
+D:\WEB_API\APIDA\bin\Debug\net7\APIPCHY.dll
+D:\WEB_API\APIDA\bin\Debug\net7\APIPCHY.pdb
+D:\WEB_API\APIDA\bin\Debug\net7\BCrypt.Net-Next.dll
+D:\WEB_API\APIDA\bin\Debug\net7\Humanizer.dll
+D:\WEB_API\APIDA\bin\Debug\net7\System.Net.Http.Formatting.dll
+D:\WEB_API\APIDA\bin\Debug\net7\System.Web.Http.dll
+D:\WEB_API\APIDA\bin\Debug\net7\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\WEB_API\APIDA\bin\Debug\net7\Microsoft.Data.SqlClient.dll
+D:\WEB_API\APIDA\bin\Debug\net7\Microsoft.EntityFrameworkCore.dll
+D:\WEB_API\APIDA\bin\Debug\net7\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\WEB_API\APIDA\bin\Debug\net7\Microsoft.EntityFrameworkCore.Design.dll
+D:\WEB_API\APIDA\bin\Debug\net7\Microsoft.EntityFrameworkCore.Relational.dll
+D:\WEB_API\APIDA\bin\Debug\net7\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\WEB_API\APIDA\bin\Debug\net7\Microsoft.Identity.Client.dll
+D:\WEB_API\APIDA\bin\Debug\net7\Microsoft.IdentityModel.Abstractions.dll
+D:\WEB_API\APIDA\bin\Debug\net7\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\WEB_API\APIDA\bin\Debug\net7\Microsoft.IdentityModel.Logging.dll
+D:\WEB_API\APIDA\bin\Debug\net7\Microsoft.IdentityModel.Protocols.dll
+D:\WEB_API\APIDA\bin\Debug\net7\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\WEB_API\APIDA\bin\Debug\net7\Microsoft.IdentityModel.Tokens.dll
+D:\WEB_API\APIDA\bin\Debug\net7\Microsoft.OpenApi.dll
+D:\WEB_API\APIDA\bin\Debug\net7\Microsoft.Owin.dll
+D:\WEB_API\APIDA\bin\Debug\net7\Microsoft.Owin.Security.dll
+D:\WEB_API\APIDA\bin\Debug\net7\Microsoft.Owin.Security.OAuth.dll
+D:\WEB_API\APIDA\bin\Debug\net7\Microsoft.Win32.SystemEvents.dll
+D:\WEB_API\APIDA\bin\Debug\net7\Newtonsoft.Json.dll
+D:\WEB_API\APIDA\bin\Debug\net7\Newtonsoft.Json.Bson.dll
+D:\WEB_API\APIDA\bin\Debug\net7\Oracle.ManagedDataAccess.dll
+D:\WEB_API\APIDA\bin\Debug\net7\Owin.dll
+D:\WEB_API\APIDA\bin\Debug\net7\Swashbuckle.AspNetCore.Swagger.dll
+D:\WEB_API\APIDA\bin\Debug\net7\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\WEB_API\APIDA\bin\Debug\net7\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\WEB_API\APIDA\bin\Debug\net7\System.Configuration.ConfigurationManager.dll
+D:\WEB_API\APIDA\bin\Debug\net7\System.Diagnostics.PerformanceCounter.dll
+D:\WEB_API\APIDA\bin\Debug\net7\System.DirectoryServices.dll
+D:\WEB_API\APIDA\bin\Debug\net7\System.DirectoryServices.Protocols.dll
+D:\WEB_API\APIDA\bin\Debug\net7\System.Drawing.Common.dll
+D:\WEB_API\APIDA\bin\Debug\net7\System.IdentityModel.Tokens.Jwt.dll
+D:\WEB_API\APIDA\bin\Debug\net7\System.Runtime.Caching.dll
+D:\WEB_API\APIDA\bin\Debug\net7\System.Security.Cryptography.ProtectedData.dll
+D:\WEB_API\APIDA\bin\Debug\net7\System.Security.Permissions.dll
+D:\WEB_API\APIDA\bin\Debug\net7\System.Windows.Extensions.dll
+D:\WEB_API\APIDA\bin\Debug\net7\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\WEB_API\APIDA\bin\Debug\net7\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\WEB_API\APIDA\bin\Debug\net7\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\WEB_API\APIDA\bin\Debug\net7\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\WEB_API\APIDA\bin\Debug\net7\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\WEB_API\APIDA\bin\Debug\net7\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\WEB_API\APIDA\bin\Debug\net7\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\WEB_API\APIDA\bin\Debug\net7\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\WEB_API\APIDA\bin\Debug\net7\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\WEB_API\APIDA\bin\Debug\net7\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\WEB_API\APIDA\bin\Debug\net7\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\WEB_API\APIDA\bin\Debug\net7\runtimes\win\lib\net6.0\System.Diagnostics.PerformanceCounter.dll
+D:\WEB_API\APIDA\bin\Debug\net7\runtimes\win\lib\netcoreapp2.0\System.DirectoryServices.dll
+D:\WEB_API\APIDA\bin\Debug\net7\runtimes\linux\lib\netcoreapp2.0\System.DirectoryServices.Protocols.dll
+D:\WEB_API\APIDA\bin\Debug\net7\runtimes\osx\lib\netcoreapp2.0\System.DirectoryServices.Protocols.dll
+D:\WEB_API\APIDA\bin\Debug\net7\runtimes\win\lib\netcoreapp2.0\System.DirectoryServices.Protocols.dll
+D:\WEB_API\APIDA\bin\Debug\net7\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\WEB_API\APIDA\bin\Debug\net7\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\WEB_API\APIDA\bin\Debug\net7\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\WEB_API\APIDA\bin\Debug\net7\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\WEB_API\APIDA\bin\Debug\net7\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\WEB_API\APIDA\obj\Debug\net7\APIPCHY.csproj.AssemblyReference.cache
+D:\WEB_API\APIDA\obj\Debug\net7\APIPCHY.GeneratedMSBuildEditorConfig.editorconfig
+D:\WEB_API\APIDA\obj\Debug\net7\APIPCHY.AssemblyInfoInputs.cache
+D:\WEB_API\APIDA\obj\Debug\net7\APIPCHY.AssemblyInfo.cs
+D:\WEB_API\APIDA\obj\Debug\net7\APIPCHY.csproj.CoreCompileInputs.cache
+D:\WEB_API\APIDA\obj\Debug\net7\APIPCHY.MvcApplicationPartsAssemblyInfo.cs
+D:\WEB_API\APIDA\obj\Debug\net7\APIPCHY.MvcApplicationPartsAssemblyInfo.cache
+D:\WEB_API\APIDA\obj\Debug\net7\staticwebassets\msbuild.APIPCHY.Microsoft.AspNetCore.StaticWebAssets.props
+D:\WEB_API\APIDA\obj\Debug\net7\staticwebassets\msbuild.build.APIPCHY.props
+D:\WEB_API\APIDA\obj\Debug\net7\staticwebassets\msbuild.buildMultiTargeting.APIPCHY.props
+D:\WEB_API\APIDA\obj\Debug\net7\staticwebassets\msbuild.buildTransitive.APIPCHY.props
+D:\WEB_API\APIDA\obj\Debug\net7\staticwebassets.pack.json
+D:\WEB_API\APIDA\obj\Debug\net7\staticwebassets.build.json
+D:\WEB_API\APIDA\obj\Debug\net7\staticwebassets.development.json
+D:\WEB_API\APIDA\obj\Debug\net7\scopedcss\bundle\APIPCHY.styles.css
+D:\WEB_API\APIDA\obj\Debug\net7\APIPCHY.csproj.CopyComplete
+D:\WEB_API\APIDA\obj\Debug\net7\APIPCHY.dll
+D:\WEB_API\APIDA\obj\Debug\net7\refint\APIPCHY.dll
+D:\WEB_API\APIDA\obj\Debug\net7\APIPCHY.pdb
+D:\WEB_API\APIDA\obj\Debug\net7\APIPCHY.genruntimeconfig.cache
+D:\WEB_API\APIDA\obj\Debug\net7\ref\APIPCHY.dll
+D:\WEB_API\APIDA\bin\Debug\net7\Oracle.DataAccess.dll
+D:\WEB_API\APIDA\bin\Debug\net7\BouncyCastle.Crypto.dll
+D:\WEB_API\APIDA\bin\Debug\net7\BouncyCastle.Cryptography.dll
+D:\WEB_API\APIDA\bin\Debug\net7\Enums.NET.dll
+D:\WEB_API\APIDA\bin\Debug\net7\itextsharp.dll
+D:\WEB_API\APIDA\bin\Debug\net7\MathNet.Numerics.dll
+D:\WEB_API\APIDA\bin\Debug\net7\Microsoft.IO.RecyclableMemoryStream.dll
+D:\WEB_API\APIDA\bin\Debug\net7\Microsoft.Office.Interop.Excel.dll
+D:\WEB_API\APIDA\bin\Debug\net7\Microsoft.Office.Interop.Word.dll
+D:\WEB_API\APIDA\bin\Debug\net7\NPOI.Core.dll
+D:\WEB_API\APIDA\bin\Debug\net7\NPOI.OOXML.dll
+D:\WEB_API\APIDA\bin\Debug\net7\NPOI.OpenXml4Net.dll
+D:\WEB_API\APIDA\bin\Debug\net7\NPOI.OpenXmlFormats.dll
+D:\WEB_API\APIDA\bin\Debug\net7\ICSharpCode.SharpZipLib.dll
+D:\WEB_API\APIDA\bin\Debug\net7\SixLabors.Fonts.dll
+D:\WEB_API\APIDA\bin\Debug\net7\SixLabors.ImageSharp.dll
+E:\OneDrive - evnnpc\CONG VIEC\PCHUNGYEN\WEB_API\APIDA\bin\Debug\net7\appsettings.Development.json
+E:\OneDrive - evnnpc\CONG VIEC\PCHUNGYEN\WEB_API\APIDA\bin\Debug\net7\appsettings.json
+E:\OneDrive - evnnpc\CONG VIEC\PCHUNGYEN\WEB_API\APIDA\bin\Debug\net7\APIPCHY.exe
+E:\OneDrive - evnnpc\CONG VIEC\PCHUNGYEN\WEB_API\APIDA\bin\Debug\net7\APIPCHY.deps.json
+E:\OneDrive - evnnpc\CONG VIEC\PCHUNGYEN\WEB_API\APIDA\bin\Debug\net7\APIPCHY.runtimeconfig.json
+E:\OneDrive - evnnpc\CONG VIEC\PCHUNGYEN\WEB_API\APIDA\bin\Debug\net7\APIPCHY.dll
+E:\OneDrive - evnnpc\CONG VIEC\PCHUNGYEN\WEB_API\APIDA\bin\Debug\net7\APIPCHY.pdb
+E:\OneDrive - evnnpc\CONG VIEC\PCHUNGYEN\WEB_API\APIDA\bin\Debug\net7\BCrypt.Net-Next.dll
+E:\OneDrive - evnnpc\CONG VIEC\PCHUNGYEN\WEB_API\APIDA\bin\Debug\net7\BouncyCastle.Crypto.dll
+E:\OneDrive - evnnpc\CONG VIEC\PCHUNGYEN\WEB_API\APIDA\bin\Debug\net7\BouncyCastle.Cryptography.dll
+E:\OneDrive - evnnpc\CONG VIEC\PCHUNGYEN\WEB_API\APIDA\bin\Debug\net7\Enums.NET.dll
+E:\OneDrive - evnnpc\CONG VIEC\PCHUNGYEN\WEB_API\APIDA\bin\Debug\net7\Humanizer.dll
+E:\OneDrive - evnnpc\CONG VIEC\PCHUNGYEN\WEB_API\APIDA\bin\Debug\net7\itextsharp.dll
+E:\OneDrive - evnnpc\CONG VIEC\PCHUNGYEN\WEB_API\APIDA\bin\Debug\net7\MathNet.Numerics.dll
+E:\OneDrive - evnnpc\CONG VIEC\PCHUNGYEN\WEB_API\APIDA\bin\Debug\net7\System.Net.Http.Formatting.dll
+E:\OneDrive - evnnpc\CONG VIEC\PCHUNGYEN\WEB_API\APIDA\bin\Debug\net7\System.Web.Http.dll
+E:\OneDrive - evnnpc\CONG VIEC\PCHUNGYEN\WEB_API\APIDA\bin\Debug\net7\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+E:\OneDrive - evnnpc\CONG VIEC\PCHUNGYEN\WEB_API\APIDA\bin\Debug\net7\Microsoft.Data.SqlClient.dll
+E:\OneDrive - evnnpc\CONG VIEC\PCHUNGYEN\WEB_API\APIDA\bin\Debug\net7\Microsoft.EntityFrameworkCore.dll
+E:\OneDrive - evnnpc\CONG VIEC\PCHUNGYEN\WEB_API\APIDA\bin\Debug\net7\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\OneDrive - evnnpc\CONG VIEC\PCHUNGYEN\WEB_API\APIDA\bin\Debug\net7\Microsoft.EntityFrameworkCore.Design.dll
+E:\OneDrive - evnnpc\CONG VIEC\PCHUNGYEN\WEB_API\APIDA\bin\Debug\net7\Microsoft.EntityFrameworkCore.Relational.dll
+E:\OneDrive - evnnpc\CONG VIEC\PCHUNGYEN\WEB_API\APIDA\bin\Debug\net7\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\OneDrive - evnnpc\CONG VIEC\PCHUNGYEN\WEB_API\APIDA\bin\Debug\net7\Microsoft.Identity.Client.dll
+E:\OneDrive - evnnpc\CONG VIEC\PCHUNGYEN\WEB_API\APIDA\bin\Debug\net7\Microsoft.IdentityModel.Abstractions.dll
+E:\OneDrive - evnnpc\CONG VIEC\PCHUNGYEN\WEB_API\APIDA\bin\Debug\net7\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\OneDrive - evnnpc\CONG VIEC\PCHUNGYEN\WEB_API\APIDA\bin\Debug\net7\Microsoft.IdentityModel.Logging.dll
+E:\OneDrive - evnnpc\CONG VIEC\PCHUNGYEN\WEB_API\APIDA\bin\Debug\net7\Microsoft.IdentityModel.Protocols.dll
+E:\OneDrive - evnnpc\CONG VIEC\PCHUNGYEN\WEB_API\APIDA\bin\Debug\net7\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\OneDrive - evnnpc\CONG VIEC\PCHUNGYEN\WEB_API\APIDA\bin\Debug\net7\Microsoft.IdentityModel.Tokens.dll
+E:\OneDrive - evnnpc\CONG VIEC\PCHUNGYEN\WEB_API\APIDA\bin\Debug\net7\Microsoft.IO.RecyclableMemoryStream.dll
+E:\OneDrive - evnnpc\CONG VIEC\PCHUNGYEN\WEB_API\APIDA\bin\Debug\net7\Microsoft.Office.Interop.Excel.dll
+E:\OneDrive - evnnpc\CONG VIEC\PCHUNGYEN\WEB_API\APIDA\bin\Debug\net7\Microsoft.Office.Interop.Word.dll
+E:\OneDrive - evnnpc\CONG VIEC\PCHUNGYEN\WEB_API\APIDA\bin\Debug\net7\Microsoft.OpenApi.dll
+E:\OneDrive - evnnpc\CONG VIEC\PCHUNGYEN\WEB_API\APIDA\bin\Debug\net7\Microsoft.Owin.dll
+E:\OneDrive - evnnpc\CONG VIEC\PCHUNGYEN\WEB_API\APIDA\bin\Debug\net7\Microsoft.Owin.Security.dll
+E:\OneDrive - evnnpc\CONG VIEC\PCHUNGYEN\WEB_API\APIDA\bin\Debug\net7\Microsoft.Owin.Security.OAuth.dll
+E:\OneDrive - evnnpc\CONG VIEC\PCHUNGYEN\WEB_API\APIDA\bin\Debug\net7\Microsoft.Win32.SystemEvents.dll
+E:\OneDrive - evnnpc\CONG VIEC\PCHUNGYEN\WEB_API\APIDA\bin\Debug\net7\Newtonsoft.Json.dll
+E:\OneDrive - evnnpc\CONG VIEC\PCHUNGYEN\WEB_API\APIDA\bin\Debug\net7\Newtonsoft.Json.Bson.dll
+E:\OneDrive - evnnpc\CONG VIEC\PCHUNGYEN\WEB_API\APIDA\bin\Debug\net7\NPOI.Core.dll
+E:\OneDrive - evnnpc\CONG VIEC\PCHUNGYEN\WEB_API\APIDA\bin\Debug\net7\NPOI.OOXML.dll
+E:\OneDrive - evnnpc\CONG VIEC\PCHUNGYEN\WEB_API\APIDA\bin\Debug\net7\NPOI.OpenXml4Net.dll
+E:\OneDrive - evnnpc\CONG VIEC\PCHUNGYEN\WEB_API\APIDA\bin\Debug\net7\NPOI.OpenXmlFormats.dll
+E:\OneDrive - evnnpc\CONG VIEC\PCHUNGYEN\WEB_API\APIDA\bin\Debug\net7\Oracle.ManagedDataAccess.dll
+E:\OneDrive - evnnpc\CONG VIEC\PCHUNGYEN\WEB_API\APIDA\bin\Debug\net7\Owin.dll
+E:\OneDrive - evnnpc\CONG VIEC\PCHUNGYEN\WEB_API\APIDA\bin\Debug\net7\ICSharpCode.SharpZipLib.dll
+E:\OneDrive - evnnpc\CONG VIEC\PCHUNGYEN\WEB_API\APIDA\bin\Debug\net7\SixLabors.Fonts.dll
+E:\OneDrive - evnnpc\CONG VIEC\PCHUNGYEN\WEB_API\APIDA\bin\Debug\net7\SixLabors.ImageSharp.dll
+E:\OneDrive - evnnpc\CONG VIEC\PCHUNGYEN\WEB_API\APIDA\bin\Debug\net7\Swashbuckle.AspNetCore.Swagger.dll
+E:\OneDrive - evnnpc\CONG VIEC\PCHUNGYEN\WEB_API\APIDA\bin\Debug\net7\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\OneDrive - evnnpc\CONG VIEC\PCHUNGYEN\WEB_API\APIDA\bin\Debug\net7\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\OneDrive - evnnpc\CONG VIEC\PCHUNGYEN\WEB_API\APIDA\bin\Debug\net7\System.Configuration.ConfigurationManager.dll
+E:\OneDrive - evnnpc\CONG VIEC\PCHUNGYEN\WEB_API\APIDA\bin\Debug\net7\System.Diagnostics.PerformanceCounter.dll
+E:\OneDrive - evnnpc\CONG VIEC\PCHUNGYEN\WEB_API\APIDA\bin\Debug\net7\System.DirectoryServices.dll
+E:\OneDrive - evnnpc\CONG VIEC\PCHUNGYEN\WEB_API\APIDA\bin\Debug\net7\System.DirectoryServices.Protocols.dll
+E:\OneDrive - evnnpc\CONG VIEC\PCHUNGYEN\WEB_API\APIDA\bin\Debug\net7\System.Drawing.Common.dll
+E:\OneDrive - evnnpc\CONG VIEC\PCHUNGYEN\WEB_API\APIDA\bin\Debug\net7\System.IdentityModel.Tokens.Jwt.dll
+E:\OneDrive - evnnpc\CONG VIEC\PCHUNGYEN\WEB_API\APIDA\bin\Debug\net7\System.Runtime.Caching.dll
+E:\OneDrive - evnnpc\CONG VIEC\PCHUNGYEN\WEB_API\APIDA\bin\Debug\net7\System.Security.Cryptography.ProtectedData.dll
+E:\OneDrive - evnnpc\CONG VIEC\PCHUNGYEN\WEB_API\APIDA\bin\Debug\net7\System.Security.Permissions.dll
+E:\OneDrive - evnnpc\CONG VIEC\PCHUNGYEN\WEB_API\APIDA\bin\Debug\net7\System.Windows.Extensions.dll
+E:\OneDrive - evnnpc\CONG VIEC\PCHUNGYEN\WEB_API\APIDA\bin\Debug\net7\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\OneDrive - evnnpc\CONG VIEC\PCHUNGYEN\WEB_API\APIDA\bin\Debug\net7\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\OneDrive - evnnpc\CONG VIEC\PCHUNGYEN\WEB_API\APIDA\bin\Debug\net7\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\OneDrive - evnnpc\CONG VIEC\PCHUNGYEN\WEB_API\APIDA\bin\Debug\net7\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\OneDrive - evnnpc\CONG VIEC\PCHUNGYEN\WEB_API\APIDA\bin\Debug\net7\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\OneDrive - evnnpc\CONG VIEC\PCHUNGYEN\WEB_API\APIDA\bin\Debug\net7\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\OneDrive - evnnpc\CONG VIEC\PCHUNGYEN\WEB_API\APIDA\bin\Debug\net7\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\OneDrive - evnnpc\CONG VIEC\PCHUNGYEN\WEB_API\APIDA\bin\Debug\net7\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\OneDrive - evnnpc\CONG VIEC\PCHUNGYEN\WEB_API\APIDA\bin\Debug\net7\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\OneDrive - evnnpc\CONG VIEC\PCHUNGYEN\WEB_API\APIDA\bin\Debug\net7\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\OneDrive - evnnpc\CONG VIEC\PCHUNGYEN\WEB_API\APIDA\bin\Debug\net7\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+E:\OneDrive - evnnpc\CONG VIEC\PCHUNGYEN\WEB_API\APIDA\bin\Debug\net7\runtimes\win\lib\net6.0\System.Diagnostics.PerformanceCounter.dll
+E:\OneDrive - evnnpc\CONG VIEC\PCHUNGYEN\WEB_API\APIDA\bin\Debug\net7\runtimes\win\lib\netcoreapp2.0\System.DirectoryServices.dll
+E:\OneDrive - evnnpc\CONG VIEC\PCHUNGYEN\WEB_API\APIDA\bin\Debug\net7\runtimes\linux\lib\netcoreapp2.0\System.DirectoryServices.Protocols.dll
+E:\OneDrive - evnnpc\CONG VIEC\PCHUNGYEN\WEB_API\APIDA\bin\Debug\net7\runtimes\osx\lib\netcoreapp2.0\System.DirectoryServices.Protocols.dll
+E:\OneDrive - evnnpc\CONG VIEC\PCHUNGYEN\WEB_API\APIDA\bin\Debug\net7\runtimes\win\lib\netcoreapp2.0\System.DirectoryServices.Protocols.dll
+E:\OneDrive - evnnpc\CONG VIEC\PCHUNGYEN\WEB_API\APIDA\bin\Debug\net7\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+E:\OneDrive - evnnpc\CONG VIEC\PCHUNGYEN\WEB_API\APIDA\bin\Debug\net7\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+E:\OneDrive - evnnpc\CONG VIEC\PCHUNGYEN\WEB_API\APIDA\bin\Debug\net7\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+E:\OneDrive - evnnpc\CONG VIEC\PCHUNGYEN\WEB_API\APIDA\bin\Debug\net7\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+E:\OneDrive - evnnpc\CONG VIEC\PCHUNGYEN\WEB_API\APIDA\bin\Debug\net7\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+E:\OneDrive - evnnpc\CONG VIEC\PCHUNGYEN\WEB_API\APIDA\obj\Debug\net7\APIPCHY.csproj.AssemblyReference.cache
+E:\OneDrive - evnnpc\CONG VIEC\PCHUNGYEN\WEB_API\APIDA\obj\Debug\net7\APIPCHY.GeneratedMSBuildEditorConfig.editorconfig
+E:\OneDrive - evnnpc\CONG VIEC\PCHUNGYEN\WEB_API\APIDA\obj\Debug\net7\APIPCHY.AssemblyInfoInputs.cache
+E:\OneDrive - evnnpc\CONG VIEC\PCHUNGYEN\WEB_API\APIDA\obj\Debug\net7\APIPCHY.AssemblyInfo.cs
+E:\OneDrive - evnnpc\CONG VIEC\PCHUNGYEN\WEB_API\APIDA\obj\Debug\net7\APIPCHY.csproj.CoreCompileInputs.cache
+E:\OneDrive - evnnpc\CONG VIEC\PCHUNGYEN\WEB_API\APIDA\obj\Debug\net7\APIPCHY.MvcApplicationPartsAssemblyInfo.cs
+E:\OneDrive - evnnpc\CONG VIEC\PCHUNGYEN\WEB_API\APIDA\obj\Debug\net7\APIPCHY.MvcApplicationPartsAssemblyInfo.cache
+E:\OneDrive - evnnpc\CONG VIEC\PCHUNGYEN\WEB_API\APIDA\obj\Debug\net7\staticwebassets\msbuild.APIPCHY.Microsoft.AspNetCore.StaticWebAssets.props
+E:\OneDrive - evnnpc\CONG VIEC\PCHUNGYEN\WEB_API\APIDA\obj\Debug\net7\staticwebassets\msbuild.build.APIPCHY.props
+E:\OneDrive - evnnpc\CONG VIEC\PCHUNGYEN\WEB_API\APIDA\obj\Debug\net7\staticwebassets\msbuild.buildMultiTargeting.APIPCHY.props
+E:\OneDrive - evnnpc\CONG VIEC\PCHUNGYEN\WEB_API\APIDA\obj\Debug\net7\staticwebassets\msbuild.buildTransitive.APIPCHY.props
+E:\OneDrive - evnnpc\CONG VIEC\PCHUNGYEN\WEB_API\APIDA\obj\Debug\net7\staticwebassets.pack.json
+E:\OneDrive - evnnpc\CONG VIEC\PCHUNGYEN\WEB_API\APIDA\obj\Debug\net7\staticwebassets.build.json
+E:\OneDrive - evnnpc\CONG VIEC\PCHUNGYEN\WEB_API\APIDA\obj\Debug\net7\staticwebassets.development.json
+E:\OneDrive - evnnpc\CONG VIEC\PCHUNGYEN\WEB_API\APIDA\obj\Debug\net7\scopedcss\bundle\APIPCHY.styles.css
+E:\OneDrive - evnnpc\CONG VIEC\PCHUNGYEN\WEB_API\APIDA\obj\Debug\net7\APIPCHY.csproj.CopyComplete
+E:\OneDrive - evnnpc\CONG VIEC\PCHUNGYEN\WEB_API\APIDA\obj\Debug\net7\APIPCHY.dll
+E:\OneDrive - evnnpc\CONG VIEC\PCHUNGYEN\WEB_API\APIDA\obj\Debug\net7\refint\APIPCHY.dll
+E:\OneDrive - evnnpc\CONG VIEC\PCHUNGYEN\WEB_API\APIDA\obj\Debug\net7\APIPCHY.pdb
+E:\OneDrive - evnnpc\CONG VIEC\PCHUNGYEN\WEB_API\APIDA\obj\Debug\net7\APIPCHY.genruntimeconfig.cache
+E:\OneDrive - evnnpc\CONG VIEC\PCHUNGYEN\WEB_API\APIDA\obj\Debug\net7\ref\APIPCHY.dll
+E:\OneDrive - evnnpc\CONG VIEC\PCHUNGYEN\APIPCHY\APIDA\bin\Debug\net7\appsettings.Development.json
+E:\OneDrive - evnnpc\CONG VIEC\PCHUNGYEN\APIPCHY\APIDA\bin\Debug\net7\appsettings.json
+E:\OneDrive - evnnpc\CONG VIEC\PCHUNGYEN\APIPCHY\APIDA\bin\Debug\net7\APIPCHY.exe
+E:\OneDrive - evnnpc\CONG VIEC\PCHUNGYEN\APIPCHY\APIDA\bin\Debug\net7\APIPCHY.deps.json
+E:\OneDrive - evnnpc\CONG VIEC\PCHUNGYEN\APIPCHY\APIDA\bin\Debug\net7\APIPCHY.runtimeconfig.json
+E:\OneDrive - evnnpc\CONG VIEC\PCHUNGYEN\APIPCHY\APIDA\bin\Debug\net7\APIPCHY.dll
+E:\OneDrive - evnnpc\CONG VIEC\PCHUNGYEN\APIPCHY\APIDA\bin\Debug\net7\APIPCHY.pdb
+E:\OneDrive - evnnpc\CONG VIEC\PCHUNGYEN\APIPCHY\APIDA\bin\Debug\net7\BCrypt.Net-Next.dll
+E:\OneDrive - evnnpc\CONG VIEC\PCHUNGYEN\APIPCHY\APIDA\bin\Debug\net7\BouncyCastle.Crypto.dll
+E:\OneDrive - evnnpc\CONG VIEC\PCHUNGYEN\APIPCHY\APIDA\bin\Debug\net7\BouncyCastle.Cryptography.dll
+E:\OneDrive - evnnpc\CONG VIEC\PCHUNGYEN\APIPCHY\APIDA\bin\Debug\net7\Enums.NET.dll
+E:\OneDrive - evnnpc\CONG VIEC\PCHUNGYEN\APIPCHY\APIDA\bin\Debug\net7\Humanizer.dll
+E:\OneDrive - evnnpc\CONG VIEC\PCHUNGYEN\APIPCHY\APIDA\bin\Debug\net7\itextsharp.dll
+E:\OneDrive - evnnpc\CONG VIEC\PCHUNGYEN\APIPCHY\APIDA\bin\Debug\net7\MathNet.Numerics.dll
+E:\OneDrive - evnnpc\CONG VIEC\PCHUNGYEN\APIPCHY\APIDA\bin\Debug\net7\System.Net.Http.Formatting.dll
+E:\OneDrive - evnnpc\CONG VIEC\PCHUNGYEN\APIPCHY\APIDA\bin\Debug\net7\System.Web.Http.dll
+E:\OneDrive - evnnpc\CONG VIEC\PCHUNGYEN\APIPCHY\APIDA\bin\Debug\net7\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+E:\OneDrive - evnnpc\CONG VIEC\PCHUNGYEN\APIPCHY\APIDA\bin\Debug\net7\Microsoft.Data.SqlClient.dll
+E:\OneDrive - evnnpc\CONG VIEC\PCHUNGYEN\APIPCHY\APIDA\bin\Debug\net7\Microsoft.EntityFrameworkCore.dll
+E:\OneDrive - evnnpc\CONG VIEC\PCHUNGYEN\APIPCHY\APIDA\bin\Debug\net7\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\OneDrive - evnnpc\CONG VIEC\PCHUNGYEN\APIPCHY\APIDA\bin\Debug\net7\Microsoft.EntityFrameworkCore.Design.dll
+E:\OneDrive - evnnpc\CONG VIEC\PCHUNGYEN\APIPCHY\APIDA\bin\Debug\net7\Microsoft.EntityFrameworkCore.Relational.dll
+E:\OneDrive - evnnpc\CONG VIEC\PCHUNGYEN\APIPCHY\APIDA\bin\Debug\net7\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\OneDrive - evnnpc\CONG VIEC\PCHUNGYEN\APIPCHY\APIDA\bin\Debug\net7\Microsoft.Identity.Client.dll
+E:\OneDrive - evnnpc\CONG VIEC\PCHUNGYEN\APIPCHY\APIDA\bin\Debug\net7\Microsoft.IdentityModel.Abstractions.dll
+E:\OneDrive - evnnpc\CONG VIEC\PCHUNGYEN\APIPCHY\APIDA\bin\Debug\net7\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\OneDrive - evnnpc\CONG VIEC\PCHUNGYEN\APIPCHY\APIDA\bin\Debug\net7\Microsoft.IdentityModel.Logging.dll
+E:\OneDrive - evnnpc\CONG VIEC\PCHUNGYEN\APIPCHY\APIDA\bin\Debug\net7\Microsoft.IdentityModel.Protocols.dll
+E:\OneDrive - evnnpc\CONG VIEC\PCHUNGYEN\APIPCHY\APIDA\bin\Debug\net7\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\OneDrive - evnnpc\CONG VIEC\PCHUNGYEN\APIPCHY\APIDA\bin\Debug\net7\Microsoft.IdentityModel.Tokens.dll
+E:\OneDrive - evnnpc\CONG VIEC\PCHUNGYEN\APIPCHY\APIDA\bin\Debug\net7\Microsoft.IO.RecyclableMemoryStream.dll
+E:\OneDrive - evnnpc\CONG VIEC\PCHUNGYEN\APIPCHY\APIDA\bin\Debug\net7\Microsoft.Office.Interop.Excel.dll
+E:\OneDrive - evnnpc\CONG VIEC\PCHUNGYEN\APIPCHY\APIDA\bin\Debug\net7\Microsoft.Office.Interop.Word.dll
+E:\OneDrive - evnnpc\CONG VIEC\PCHUNGYEN\APIPCHY\APIDA\bin\Debug\net7\Microsoft.OpenApi.dll
+E:\OneDrive - evnnpc\CONG VIEC\PCHUNGYEN\APIPCHY\APIDA\bin\Debug\net7\Microsoft.Owin.dll
+E:\OneDrive - evnnpc\CONG VIEC\PCHUNGYEN\APIPCHY\APIDA\bin\Debug\net7\Microsoft.Owin.Security.dll
+E:\OneDrive - evnnpc\CONG VIEC\PCHUNGYEN\APIPCHY\APIDA\bin\Debug\net7\Microsoft.Owin.Security.OAuth.dll
+E:\OneDrive - evnnpc\CONG VIEC\PCHUNGYEN\APIPCHY\APIDA\bin\Debug\net7\Microsoft.Win32.SystemEvents.dll
+E:\OneDrive - evnnpc\CONG VIEC\PCHUNGYEN\APIPCHY\APIDA\bin\Debug\net7\Newtonsoft.Json.dll
+E:\OneDrive - evnnpc\CONG VIEC\PCHUNGYEN\APIPCHY\APIDA\bin\Debug\net7\Newtonsoft.Json.Bson.dll
+E:\OneDrive - evnnpc\CONG VIEC\PCHUNGYEN\APIPCHY\APIDA\bin\Debug\net7\NPOI.Core.dll
+E:\OneDrive - evnnpc\CONG VIEC\PCHUNGYEN\APIPCHY\APIDA\bin\Debug\net7\NPOI.OOXML.dll
+E:\OneDrive - evnnpc\CONG VIEC\PCHUNGYEN\APIPCHY\APIDA\bin\Debug\net7\NPOI.OpenXml4Net.dll
+E:\OneDrive - evnnpc\CONG VIEC\PCHUNGYEN\APIPCHY\APIDA\bin\Debug\net7\NPOI.OpenXmlFormats.dll
+E:\OneDrive - evnnpc\CONG VIEC\PCHUNGYEN\APIPCHY\APIDA\bin\Debug\net7\Oracle.ManagedDataAccess.dll
+E:\OneDrive - evnnpc\CONG VIEC\PCHUNGYEN\APIPCHY\APIDA\bin\Debug\net7\Owin.dll
+E:\OneDrive - evnnpc\CONG VIEC\PCHUNGYEN\APIPCHY\APIDA\bin\Debug\net7\ICSharpCode.SharpZipLib.dll
+E:\OneDrive - evnnpc\CONG VIEC\PCHUNGYEN\APIPCHY\APIDA\bin\Debug\net7\SixLabors.Fonts.dll
+E:\OneDrive - evnnpc\CONG VIEC\PCHUNGYEN\APIPCHY\APIDA\bin\Debug\net7\SixLabors.ImageSharp.dll
+E:\OneDrive - evnnpc\CONG VIEC\PCHUNGYEN\APIPCHY\APIDA\bin\Debug\net7\Swashbuckle.AspNetCore.Swagger.dll
+E:\OneDrive - evnnpc\CONG VIEC\PCHUNGYEN\APIPCHY\APIDA\bin\Debug\net7\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\OneDrive - evnnpc\CONG VIEC\PCHUNGYEN\APIPCHY\APIDA\bin\Debug\net7\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\OneDrive - evnnpc\CONG VIEC\PCHUNGYEN\APIPCHY\APIDA\bin\Debug\net7\System.Configuration.ConfigurationManager.dll
+E:\OneDrive - evnnpc\CONG VIEC\PCHUNGYEN\APIPCHY\APIDA\bin\Debug\net7\System.Diagnostics.PerformanceCounter.dll
+E:\OneDrive - evnnpc\CONG VIEC\PCHUNGYEN\APIPCHY\APIDA\bin\Debug\net7\System.DirectoryServices.dll
+E:\OneDrive - evnnpc\CONG VIEC\PCHUNGYEN\APIPCHY\APIDA\bin\Debug\net7\System.DirectoryServices.Protocols.dll
+E:\OneDrive - evnnpc\CONG VIEC\PCHUNGYEN\APIPCHY\APIDA\bin\Debug\net7\System.Drawing.Common.dll
+E:\OneDrive - evnnpc\CONG VIEC\PCHUNGYEN\APIPCHY\APIDA\bin\Debug\net7\System.IdentityModel.Tokens.Jwt.dll
+E:\OneDrive - evnnpc\CONG VIEC\PCHUNGYEN\APIPCHY\APIDA\bin\Debug\net7\System.Runtime.Caching.dll
+E:\OneDrive - evnnpc\CONG VIEC\PCHUNGYEN\APIPCHY\APIDA\bin\Debug\net7\System.Security.Cryptography.ProtectedData.dll
+E:\OneDrive - evnnpc\CONG VIEC\PCHUNGYEN\APIPCHY\APIDA\bin\Debug\net7\System.Security.Permissions.dll
+E:\OneDrive - evnnpc\CONG VIEC\PCHUNGYEN\APIPCHY\APIDA\bin\Debug\net7\System.Windows.Extensions.dll
+E:\OneDrive - evnnpc\CONG VIEC\PCHUNGYEN\APIPCHY\APIDA\bin\Debug\net7\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\OneDrive - evnnpc\CONG VIEC\PCHUNGYEN\APIPCHY\APIDA\bin\Debug\net7\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\OneDrive - evnnpc\CONG VIEC\PCHUNGYEN\APIPCHY\APIDA\bin\Debug\net7\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\OneDrive - evnnpc\CONG VIEC\PCHUNGYEN\APIPCHY\APIDA\bin\Debug\net7\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\OneDrive - evnnpc\CONG VIEC\PCHUNGYEN\APIPCHY\APIDA\bin\Debug\net7\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\OneDrive - evnnpc\CONG VIEC\PCHUNGYEN\APIPCHY\APIDA\bin\Debug\net7\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\OneDrive - evnnpc\CONG VIEC\PCHUNGYEN\APIPCHY\APIDA\bin\Debug\net7\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\OneDrive - evnnpc\CONG VIEC\PCHUNGYEN\APIPCHY\APIDA\bin\Debug\net7\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\OneDrive - evnnpc\CONG VIEC\PCHUNGYEN\APIPCHY\APIDA\bin\Debug\net7\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\OneDrive - evnnpc\CONG VIEC\PCHUNGYEN\APIPCHY\APIDA\bin\Debug\net7\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\OneDrive - evnnpc\CONG VIEC\PCHUNGYEN\APIPCHY\APIDA\bin\Debug\net7\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+E:\OneDrive - evnnpc\CONG VIEC\PCHUNGYEN\APIPCHY\APIDA\bin\Debug\net7\runtimes\win\lib\net6.0\System.Diagnostics.PerformanceCounter.dll
+E:\OneDrive - evnnpc\CONG VIEC\PCHUNGYEN\APIPCHY\APIDA\bin\Debug\net7\runtimes\win\lib\netcoreapp2.0\System.DirectoryServices.dll
+E:\OneDrive - evnnpc\CONG VIEC\PCHUNGYEN\APIPCHY\APIDA\bin\Debug\net7\runtimes\linux\lib\netcoreapp2.0\System.DirectoryServices.Protocols.dll
+E:\OneDrive - evnnpc\CONG VIEC\PCHUNGYEN\APIPCHY\APIDA\bin\Debug\net7\runtimes\osx\lib\netcoreapp2.0\System.DirectoryServices.Protocols.dll
+E:\OneDrive - evnnpc\CONG VIEC\PCHUNGYEN\APIPCHY\APIDA\bin\Debug\net7\runtimes\win\lib\netcoreapp2.0\System.DirectoryServices.Protocols.dll
+E:\OneDrive - evnnpc\CONG VIEC\PCHUNGYEN\APIPCHY\APIDA\bin\Debug\net7\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+E:\OneDrive - evnnpc\CONG VIEC\PCHUNGYEN\APIPCHY\APIDA\bin\Debug\net7\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+E:\OneDrive - evnnpc\CONG VIEC\PCHUNGYEN\APIPCHY\APIDA\bin\Debug\net7\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+E:\OneDrive - evnnpc\CONG VIEC\PCHUNGYEN\APIPCHY\APIDA\bin\Debug\net7\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+E:\OneDrive - evnnpc\CONG VIEC\PCHUNGYEN\APIPCHY\APIDA\bin\Debug\net7\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+E:\OneDrive - evnnpc\CONG VIEC\PCHUNGYEN\APIPCHY\APIDA\obj\Debug\net7\APIPCHY.csproj.AssemblyReference.cache
+E:\OneDrive - evnnpc\CONG VIEC\PCHUNGYEN\APIPCHY\APIDA\obj\Debug\net7\APIPCHY.GeneratedMSBuildEditorConfig.editorconfig
+E:\OneDrive - evnnpc\CONG VIEC\PCHUNGYEN\APIPCHY\APIDA\obj\Debug\net7\APIPCHY.AssemblyInfoInputs.cache
+E:\OneDrive - evnnpc\CONG VIEC\PCHUNGYEN\APIPCHY\APIDA\obj\Debug\net7\APIPCHY.AssemblyInfo.cs
+E:\OneDrive - evnnpc\CONG VIEC\PCHUNGYEN\APIPCHY\APIDA\obj\Debug\net7\APIPCHY.csproj.CoreCompileInputs.cache
+E:\OneDrive - evnnpc\CONG VIEC\PCHUNGYEN\APIPCHY\APIDA\obj\Debug\net7\APIPCHY.MvcApplicationPartsAssemblyInfo.cs
+E:\OneDrive - evnnpc\CONG VIEC\PCHUNGYEN\APIPCHY\APIDA\obj\Debug\net7\APIPCHY.MvcApplicationPartsAssemblyInfo.cache
+E:\OneDrive - evnnpc\CONG VIEC\PCHUNGYEN\APIPCHY\APIDA\obj\Debug\net7\staticwebassets\msbuild.APIPCHY.Microsoft.AspNetCore.StaticWebAssets.props
+E:\OneDrive - evnnpc\CONG VIEC\PCHUNGYEN\APIPCHY\APIDA\obj\Debug\net7\staticwebassets\msbuild.build.APIPCHY.props
+E:\OneDrive - evnnpc\CONG VIEC\PCHUNGYEN\APIPCHY\APIDA\obj\Debug\net7\staticwebassets\msbuild.buildMultiTargeting.APIPCHY.props
+E:\OneDrive - evnnpc\CONG VIEC\PCHUNGYEN\APIPCHY\APIDA\obj\Debug\net7\staticwebassets\msbuild.buildTransitive.APIPCHY.props
+E:\OneDrive - evnnpc\CONG VIEC\PCHUNGYEN\APIPCHY\APIDA\obj\Debug\net7\staticwebassets.pack.json
+E:\OneDrive - evnnpc\CONG VIEC\PCHUNGYEN\APIPCHY\APIDA\obj\Debug\net7\staticwebassets.build.json
+E:\OneDrive - evnnpc\CONG VIEC\PCHUNGYEN\APIPCHY\APIDA\obj\Debug\net7\staticwebassets.development.json
+E:\OneDrive - evnnpc\CONG VIEC\PCHUNGYEN\APIPCHY\APIDA\obj\Debug\net7\scopedcss\bundle\APIPCHY.styles.css
+E:\OneDrive - evnnpc\CONG VIEC\PCHUNGYEN\APIPCHY\APIDA\obj\Debug\net7\APIPCHY.csproj.CopyComplete
+E:\OneDrive - evnnpc\CONG VIEC\PCHUNGYEN\APIPCHY\APIDA\obj\Debug\net7\APIPCHY.dll
+E:\OneDrive - evnnpc\CONG VIEC\PCHUNGYEN\APIPCHY\APIDA\obj\Debug\net7\refint\APIPCHY.dll
+E:\OneDrive - evnnpc\CONG VIEC\PCHUNGYEN\APIPCHY\APIDA\obj\Debug\net7\APIPCHY.pdb
+E:\OneDrive - evnnpc\CONG VIEC\PCHUNGYEN\APIPCHY\APIDA\obj\Debug\net7\APIPCHY.genruntimeconfig.cache
+E:\OneDrive - evnnpc\CONG VIEC\PCHUNGYEN\APIPCHY\APIDA\obj\Debug\net7\ref\APIPCHY.dll
+D:\APIPCHY\APIDA\bin\Debug\net7\appsettings.Development.json
+D:\APIPCHY\APIDA\bin\Debug\net7\appsettings.json
+D:\APIPCHY\APIDA\bin\Debug\net7\APIPCHY.exe
+D:\APIPCHY\APIDA\bin\Debug\net7\APIPCHY.deps.json
+D:\APIPCHY\APIDA\bin\Debug\net7\APIPCHY.runtimeconfig.json
+D:\APIPCHY\APIDA\bin\Debug\net7\APIPCHY.dll
+D:\APIPCHY\APIDA\bin\Debug\net7\APIPCHY.pdb
+D:\APIPCHY\APIDA\bin\Debug\net7\BCrypt.Net-Next.dll
+D:\APIPCHY\APIDA\bin\Debug\net7\BouncyCastle.Crypto.dll
+D:\APIPCHY\APIDA\bin\Debug\net7\BouncyCastle.Cryptography.dll
+D:\APIPCHY\APIDA\bin\Debug\net7\Enums.NET.dll
+D:\APIPCHY\APIDA\bin\Debug\net7\Humanizer.dll
+D:\APIPCHY\APIDA\bin\Debug\net7\itextsharp.dll
+D:\APIPCHY\APIDA\bin\Debug\net7\MathNet.Numerics.dll
+D:\APIPCHY\APIDA\bin\Debug\net7\System.Net.Http.Formatting.dll
+D:\APIPCHY\APIDA\bin\Debug\net7\System.Web.Http.dll
+D:\APIPCHY\APIDA\bin\Debug\net7\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\APIPCHY\APIDA\bin\Debug\net7\Microsoft.Data.SqlClient.dll
+D:\APIPCHY\APIDA\bin\Debug\net7\Microsoft.EntityFrameworkCore.dll
+D:\APIPCHY\APIDA\bin\Debug\net7\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\APIPCHY\APIDA\bin\Debug\net7\Microsoft.EntityFrameworkCore.Design.dll
+D:\APIPCHY\APIDA\bin\Debug\net7\Microsoft.EntityFrameworkCore.Relational.dll
+D:\APIPCHY\APIDA\bin\Debug\net7\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\APIPCHY\APIDA\bin\Debug\net7\Microsoft.Identity.Client.dll
+D:\APIPCHY\APIDA\bin\Debug\net7\Microsoft.IdentityModel.Abstractions.dll
+D:\APIPCHY\APIDA\bin\Debug\net7\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\APIPCHY\APIDA\bin\Debug\net7\Microsoft.IdentityModel.Logging.dll
+D:\APIPCHY\APIDA\bin\Debug\net7\Microsoft.IdentityModel.Protocols.dll
+D:\APIPCHY\APIDA\bin\Debug\net7\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\APIPCHY\APIDA\bin\Debug\net7\Microsoft.IdentityModel.Tokens.dll
+D:\APIPCHY\APIDA\bin\Debug\net7\Microsoft.IO.RecyclableMemoryStream.dll
+D:\APIPCHY\APIDA\bin\Debug\net7\Microsoft.Office.Interop.Excel.dll
+D:\APIPCHY\APIDA\bin\Debug\net7\Microsoft.Office.Interop.Word.dll
+D:\APIPCHY\APIDA\bin\Debug\net7\Microsoft.OpenApi.dll
+D:\APIPCHY\APIDA\bin\Debug\net7\Microsoft.Owin.dll
+D:\APIPCHY\APIDA\bin\Debug\net7\Microsoft.Owin.Security.dll
+D:\APIPCHY\APIDA\bin\Debug\net7\Microsoft.Owin.Security.OAuth.dll
+D:\APIPCHY\APIDA\bin\Debug\net7\Microsoft.Win32.SystemEvents.dll
+D:\APIPCHY\APIDA\bin\Debug\net7\Newtonsoft.Json.dll
+D:\APIPCHY\APIDA\bin\Debug\net7\Newtonsoft.Json.Bson.dll
+D:\APIPCHY\APIDA\bin\Debug\net7\NPOI.Core.dll
+D:\APIPCHY\APIDA\bin\Debug\net7\NPOI.OOXML.dll
+D:\APIPCHY\APIDA\bin\Debug\net7\NPOI.OpenXml4Net.dll
+D:\APIPCHY\APIDA\bin\Debug\net7\NPOI.OpenXmlFormats.dll
+D:\APIPCHY\APIDA\bin\Debug\net7\Oracle.ManagedDataAccess.dll
+D:\APIPCHY\APIDA\bin\Debug\net7\Owin.dll
+D:\APIPCHY\APIDA\bin\Debug\net7\ICSharpCode.SharpZipLib.dll
+D:\APIPCHY\APIDA\bin\Debug\net7\SixLabors.Fonts.dll
+D:\APIPCHY\APIDA\bin\Debug\net7\SixLabors.ImageSharp.dll
+D:\APIPCHY\APIDA\bin\Debug\net7\Swashbuckle.AspNetCore.Swagger.dll
+D:\APIPCHY\APIDA\bin\Debug\net7\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\APIPCHY\APIDA\bin\Debug\net7\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\APIPCHY\APIDA\bin\Debug\net7\System.Configuration.ConfigurationManager.dll
+D:\APIPCHY\APIDA\bin\Debug\net7\System.Diagnostics.PerformanceCounter.dll
+D:\APIPCHY\APIDA\bin\Debug\net7\System.DirectoryServices.dll
+D:\APIPCHY\APIDA\bin\Debug\net7\System.DirectoryServices.Protocols.dll
+D:\APIPCHY\APIDA\bin\Debug\net7\System.Drawing.Common.dll
+D:\APIPCHY\APIDA\bin\Debug\net7\System.IdentityModel.Tokens.Jwt.dll
+D:\APIPCHY\APIDA\bin\Debug\net7\System.Runtime.Caching.dll
+D:\APIPCHY\APIDA\bin\Debug\net7\System.Security.Cryptography.ProtectedData.dll
+D:\APIPCHY\APIDA\bin\Debug\net7\System.Security.Permissions.dll
+D:\APIPCHY\APIDA\bin\Debug\net7\System.Windows.Extensions.dll
+D:\APIPCHY\APIDA\bin\Debug\net7\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\APIPCHY\APIDA\bin\Debug\net7\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\APIPCHY\APIDA\bin\Debug\net7\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\APIPCHY\APIDA\bin\Debug\net7\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\APIPCHY\APIDA\bin\Debug\net7\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\APIPCHY\APIDA\bin\Debug\net7\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\APIPCHY\APIDA\bin\Debug\net7\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\APIPCHY\APIDA\bin\Debug\net7\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\APIPCHY\APIDA\bin\Debug\net7\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\APIPCHY\APIDA\bin\Debug\net7\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\APIPCHY\APIDA\bin\Debug\net7\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\APIPCHY\APIDA\bin\Debug\net7\runtimes\win\lib\net6.0\System.Diagnostics.PerformanceCounter.dll
+D:\APIPCHY\APIDA\bin\Debug\net7\runtimes\win\lib\netcoreapp2.0\System.DirectoryServices.dll
+D:\APIPCHY\APIDA\bin\Debug\net7\runtimes\linux\lib\netcoreapp2.0\System.DirectoryServices.Protocols.dll
+D:\APIPCHY\APIDA\bin\Debug\net7\runtimes\osx\lib\netcoreapp2.0\System.DirectoryServices.Protocols.dll
+D:\APIPCHY\APIDA\bin\Debug\net7\runtimes\win\lib\netcoreapp2.0\System.DirectoryServices.Protocols.dll
+D:\APIPCHY\APIDA\bin\Debug\net7\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\APIPCHY\APIDA\bin\Debug\net7\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\APIPCHY\APIDA\bin\Debug\net7\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\APIPCHY\APIDA\bin\Debug\net7\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\APIPCHY\APIDA\bin\Debug\net7\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\APIPCHY\APIDA\obj\Debug\net7\APIPCHY.csproj.AssemblyReference.cache
+D:\APIPCHY\APIDA\obj\Debug\net7\APIPCHY.GeneratedMSBuildEditorConfig.editorconfig
+D:\APIPCHY\APIDA\obj\Debug\net7\APIPCHY.AssemblyInfoInputs.cache
+D:\APIPCHY\APIDA\obj\Debug\net7\APIPCHY.AssemblyInfo.cs
+D:\APIPCHY\APIDA\obj\Debug\net7\APIPCHY.csproj.CoreCompileInputs.cache
+D:\APIPCHY\APIDA\obj\Debug\net7\APIPCHY.MvcApplicationPartsAssemblyInfo.cs
+D:\APIPCHY\APIDA\obj\Debug\net7\APIPCHY.MvcApplicationPartsAssemblyInfo.cache
+D:\APIPCHY\APIDA\obj\Debug\net7\APIPCHY.sourcelink.json
+D:\APIPCHY\APIDA\obj\Debug\net7\staticwebassets.build.json
+D:\APIPCHY\APIDA\obj\Debug\net7\staticwebassets.development.json
+D:\APIPCHY\APIDA\obj\Debug\net7\staticwebassets\msbuild.APIPCHY.Microsoft.AspNetCore.StaticWebAssets.props
+D:\APIPCHY\APIDA\obj\Debug\net7\staticwebassets\msbuild.build.APIPCHY.props
+D:\APIPCHY\APIDA\obj\Debug\net7\staticwebassets\msbuild.buildMultiTargeting.APIPCHY.props
+D:\APIPCHY\APIDA\obj\Debug\net7\staticwebassets\msbuild.buildTransitive.APIPCHY.props
+D:\APIPCHY\APIDA\obj\Debug\net7\staticwebassets.pack.json
+D:\APIPCHY\APIDA\obj\Debug\net7\scopedcss\bundle\APIPCHY.styles.css
+D:\APIPCHY\APIDA\obj\Debug\net7\APIPCHY.csproj.Up2Date
+D:\APIPCHY\APIDA\obj\Debug\net7\APIPCHY.dll
+D:\APIPCHY\APIDA\obj\Debug\net7\refint\APIPCHY.dll
+D:\APIPCHY\APIDA\obj\Debug\net7\APIPCHY.pdb
+D:\APIPCHY\APIDA\obj\Debug\net7\APIPCHY.genruntimeconfig.cache
+D:\APIPCHY\APIDA\obj\Debug\net7\ref\APIPCHY.dll

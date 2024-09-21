@@ -125,7 +125,7 @@ namespace APIPCHY
                 app.UseSwaggerUI(c => c.SwaggerEndpoint("/swagger/v1/swagger.json", "APIPCHY v1"));
             }
             app.UseStaticFiles();
-
+            //app.UseDeveloperExceptionPage();
             app.UseFileServer(new FileServerOptions
             {
                 FileProvider = new PhysicalFileProvider(

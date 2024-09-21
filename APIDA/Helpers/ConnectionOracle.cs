@@ -11,8 +11,7 @@ namespace APIPCHY.Helpers
         {
             try
             {
-                string connectionString = "User Id=KPI0404;Password=kpi;Data Source=10.47.0.14:1521/cmis2";
-                //OracleConnection cn = connection.ConnectDB(ref strErr);
+                string connectionString = "User Id=QLTN;Password=QLTN;Data Source=117.0.33.2:1523/QLTN";
                 OracleConnection connection = new OracleConnection(connectionString);
                 return connection;
             }
