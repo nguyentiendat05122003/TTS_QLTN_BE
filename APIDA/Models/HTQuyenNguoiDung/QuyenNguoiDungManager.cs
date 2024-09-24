@@ -36,7 +36,7 @@ namespace APIPCHY.Models.HTQuyenNguoiDung
                 {
                     HTQuyenNguoiDung qnd = new HTQuyenNguoiDung
                     {
-                        ID = Convert.ToInt32(dr["ID"]),
+                        ID = int.Parse(dr["ID"]?.ToString()),
                         TenNguoiDung = dr["HO_TEN"]?.ToString(),   
                         TenDonVi = dr["TEN_DVIQLY"]?.ToString(),
                         TenNhom = dr["TEN_NHOM"]?.ToString(),

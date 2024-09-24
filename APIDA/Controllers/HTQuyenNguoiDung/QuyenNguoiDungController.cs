@@ -1,6 +1,7 @@
 ﻿using APIPCHY.Models.DMTruongYCTN;
 using APIPCHY.Models.HTQuyenNguoiDung;
 using APIPCHY.Models.NguoiKy;
+using APIPCHY.Resources.Constants;
 using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
 
@@ -14,6 +15,8 @@ namespace APIPCHY.Controllers
 
 
         [HttpGet("get")]
+        [AuthorizePermission(PermissionConstants.QUANLY_THANHVIEN, "VIEW")]
+        //[AuthorizePermission("menu-1", "VIEW")]
         public IActionResult getData_QuyenNguoiDung()
         {
             return Ok(db.Get_QUYEN_NGUOIDUNG());
