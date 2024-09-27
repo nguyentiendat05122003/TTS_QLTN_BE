@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("APIPCHY")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d731e8c9f16149eb6372e82feb1bf8faee12a949")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+44a10406bcb9427e6886982b9bf607f3f0f6158a")]
 [assembly: System.Reflection.AssemblyProductAttribute("APIPCHY")]
 [assembly: System.Reflection.AssemblyTitleAttribute("APIPCHY")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
