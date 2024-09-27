@@ -3,6 +3,7 @@ using Microsoft.AspNetCore.Authorization;
 using APIPCHY.Models.DMTruongYCTN;
 using APIPCHY.Models.NguoiKy;
 using System;
+using APIPCHY.MiddleWares;
 
 namespace APIPCHY.Controllers
 {
@@ -13,6 +14,7 @@ namespace APIPCHY.Controllers
         NguoiKyManager db = new NguoiKyManager();
 
         [HttpPost("create")]
+        [TokenVerification]
         //[Authorize]
         public void PostInsertNguoiKy([FromBody] NguoiKy nguoiKy)
         {
