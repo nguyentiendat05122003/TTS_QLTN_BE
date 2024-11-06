@@ -10,6 +10,7 @@ namespace APIPCHY.Helpers
         private const int PBKDF2SubkeyLength = 256 / 8;
         private const int SaltSize = 128 / 8;
 
+
         public static string HashString(string password)
         {
             if (password == null)
