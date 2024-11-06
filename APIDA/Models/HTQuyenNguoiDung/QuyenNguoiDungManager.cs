@@ -11,41 +11,39 @@ namespace APIPCHY.Models.HTQuyenNguoiDung
 
         public List<HTQuyenNguoiDung> Get_QUYEN_NGUOIDUNG()
         {
-            string strErr = "";
+            List<HTQuyenNguoiDung> result = new List<HTQuyenNguoiDung>();
             OracleConnection cn = new ConnectionOracle().getConnection();
-            cn.Open();
-            if (strErr != null && strErr != "")
-            {
-                return new List<HTQuyenNguoiDung>();
-            }
+
             try
             {
-                OracleCommand cmd = new OracleCommand();
-                cmd.Connection = cn;
-                OracleDataAdapter dap = new OracleDataAdapter();
-                cmd.CommandType = CommandType.StoredProcedure;
-                cmd.CommandText = @"PKG_QLTN_TANH.get_QUYEN_NGUOIDUNG";
-                cmd.Parameters.Add("p_getDB", OracleDbType.RefCursor).Direction = ParameterDirection.Output;
-                dap.SelectCommand = cmd;
-                DataSet ds = new DataSet();
-                dap.Fill(ds);
+                cn.Open();
 
-                List<HTQuyenNguoiDung> result = new List<HTQuyenNguoiDung>();
-
-                foreach (DataRow dr in ds.Tables[0].Rows)
+                OracleCommand cmd = new OracleCommand
                 {
-                    HTQuyenNguoiDung qnd = new HTQuyenNguoiDung
+                    Connection = cn,
+                    CommandType = CommandType.StoredProcedure,
+                    CommandText = @"PKG_QLTN_TANH.get_QUYEN_NGUOIDUNG"
+                };
+                cmd.Parameters.Add("p_getDB", OracleDbType.RefCursor).Direction = ParameterDirection.Output;
+
+                using (OracleDataAdapter dap = new OracleDataAdapter(cmd))
+                {
+                    DataSet ds = new DataSet();
+                    dap.Fill(ds);
+
+                    foreach (DataRow dr in ds.Tables[0].Rows)
                     {
-                        ID = int.Parse(dr["ID"]?.ToString()),
-                        TenNguoiDung = dr["HO_TEN"]?.ToString(),   
-                        TenDonVi = dr["TEN_DVIQLY"]?.ToString(),
-                        TenNhom = dr["TEN_NHOM"]?.ToString(),
-                    };
+                        HTQuyenNguoiDung qnd = new HTQuyenNguoiDung
+                        {
+                            ID = dr.Field<int?>("ID") ?? 0,
+                            TenNguoiDung = dr.Field<string>("HO_TEN"),
+                            TenDonVi = dr.Field<string>("TEN_DVIQLY"),
+                            TenNhom = dr.Field<string>("TEN_NHOM"),
+                        };
 
-                    result.Add(qnd);
-
+                        result.Add(qnd);
+                    }
                 }
-                return result;
             }
             catch (Exception ex)
             {
@@ -58,7 +56,63 @@ namespace APIPCHY.Models.HTQuyenNguoiDung
                     cn.Close();
                 }
             }
+
+            return result;
         }
+
+        ///get quyen nguoi dung by ID
+        public List<object> Get_QUYEN_NGUOIDUNG_BY_USERID(string maNguoiDung)
+        {
+            List<object> result = new List<object>();
+            OracleConnection cn = new ConnectionOracle().getConnection();
+
+            try
+            {
+                cn.Open();
+
+                OracleCommand cmd = new OracleCommand
+                {
+                    Connection = cn,
+                    CommandType = CommandType.StoredProcedure,
+                    CommandText = @"PKG_QLTN_TANH.get_NHOMQUYEN_BY_NGUOIDUNG_ID" 
+                };
+                cmd.Parameters.Add("p_MA_NGUOI_DUNG", OracleDbType.Varchar2).Value = maNguoiDung;
+                cmd.Parameters.Add("p_getDB", OracleDbType.RefCursor).Direction = ParameterDirection.Output;
+
+                using (OracleDataAdapter dap = new OracleDataAdapter(cmd))
+                {
+                    DataSet ds = new DataSet();
+                    dap.Fill(ds);
+
+                    foreach (DataRow dr in ds.Tables[0].Rows)
+                    {
+                        var items = new
+                        {
+                            ID = Convert.ToInt32(dr.Field<decimal>("NHOM_ID")),
+                            TenNhomQuyen = dr.Field<string>("TEN_NHOM"),
+                            TenDonVi = dr.Field<string>("TEN_DVIQLY"),
+                        };
+
+                        result.Add(items);
+                    }
+                }
+            }
+            catch (Exception ex)
+            {
+                throw ex;
+            }
+            finally
+            {
+                if (cn.State != ConnectionState.Closed)
+                {
+                    cn.Close();
+                }
+            }
+
+            return result;
+        }
+
+
 
         public HTQuyenNguoiDung Insert_HT_QUYEN_NGUOIDUNG(HTQuyenNguoiDung qnd)
         {
