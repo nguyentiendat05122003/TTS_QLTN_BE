@@ -295,7 +295,70 @@ namespace APIPCHY.Models.HTNguoiDung
 
 
 
-        public List<UserResponse> FILTER_HT_NGUOIDUNG(UserFilterRequest request)
+        //public List<UserResponse> FILTER_HT_NGUOIDUNG(UserFilterRequest request)
+        //{
+        //    OracleConnection cn = new ConnectionOracle().getConnection();
+        //    try
+        //    {
+        //        cn.Open();
+        //        OracleCommand cmd = new OracleCommand();
+        //        cmd.Connection = cn;
+        //        cmd.CommandType = CommandType.StoredProcedure;
+        //        cmd.CommandText = "PKG_QLTN_TANH.search_HT_NGUOIDUNG";
+
+        //        // Add input parameters with checks for null or empty
+        //        cmd.Parameters.Add("p_HO_TEN", OracleDbType.Varchar2).Value = string.IsNullOrEmpty(request.HO_TEN) ? (object)DBNull.Value : request.HO_TEN;
+        //        cmd.Parameters.Add("p_TEN_DANG_NHAP", OracleDbType.Varchar2).Value = string.IsNullOrEmpty(request.TEN_DANG_NHAP) ? (object)DBNull.Value : request.TEN_DANG_NHAP;
+        //        cmd.Parameters.Add("p_TRANG_THAI", OracleDbType.Int32).Value = request.TRANG_THAI.HasValue ? (object)request.TRANG_THAI.Value : DBNull.Value;
+        //        cmd.Parameters.Add("p_DM_DONVI_ID", OracleDbType.Varchar2).Value = string.IsNullOrEmpty(request.DM_DONVI_ID) ? (object)DBNull.Value : request.DM_DONVI_ID;
+        //        cmd.Parameters.Add("p_DM_PHONGBAN_ID", OracleDbType.Varchar2).Value = string.IsNullOrEmpty(request.DM_PHONGBAN_ID) ? (object)DBNull.Value : request.DM_PHONGBAN_ID;
+        //        cmd.Parameters.Add("p_DM_CHUCVU_ID", OracleDbType.Varchar2).Value = string.IsNullOrEmpty(request.DM_CHUCVU_ID) ? (object)DBNull.Value : request.DM_CHUCVU_ID;
+
+        //        cmd.Parameters.Add("p_getDB", OracleDbType.RefCursor).Direction = ParameterDirection.Output;
+
+        //        OracleDataAdapter dap = new OracleDataAdapter(cmd);
+        //        DataSet ds = new DataSet();
+        //        dap.Fill(ds);
+
+        //        if (ds.Tables.Count > 0 && ds.Tables[0].Rows.Count > 0)
+        //        {
+        //            List<UserResponse> results = new List<UserResponse>();
+        //            foreach (DataRow dr in ds.Tables[0].Rows)
+        //            {
+        //                UserResponse result = new UserResponse
+        //                {
+        //                    HO_TEN = dr["HO_TEN"] != DBNull.Value ? dr["HO_TEN"].ToString() : null,
+        //                    TEN_DANG_NHAP = dr["TEN_DANG_NHAP"] != DBNull.Value ? dr["TEN_DANG_NHAP"].ToString() : null,
+        //                    TRANG_THAI = dr["TRANG_THAI"] != DBNull.Value ? Convert.ToInt32(dr["TRANG_THAI"]) : 0, 
+        //                    TEN_DONVI = dr["TEN_DONVI"] != DBNull.Value ? dr["TEN_DONVI"].ToString() : null,
+        //                    TEN_PHONGBAN = dr["TEN_PHONGBAN"] != DBNull.Value ? dr["TEN_PHONGBAN"].ToString() : null,
+        //                    TEN_CHUCVU = dr["TEN_CHUCVU"] != DBNull.Value ? dr["TEN_CHUCVU"].ToString() : null,
+        //                    EMAIL = dr["EMAIL"] != DBNull.Value ? dr["EMAIL"].ToString() : null,
+        //                };
+        //                results.Add(result);
+        //            }
+        //            return results;
+        //        }
+        //        else
+        //        {
+        //            return new List<UserResponse>();
+        //        }
+        //    }
+        //    catch (Exception ex)
+        //    {
+        //        Console.WriteLine($"An error occurred: {ex.Message}");
+        //        throw;
+        //    }
+        //    finally
+        //    {
+        //        if (cn.State != ConnectionState.Closed)
+        //        {
+        //            cn.Close();
+        //        }
+        //    }
+        //}
+
+        public List<UserResponse> FILTER_HT_NGUOIDUNG(UserFilterRequest request, out int totalRecords)
         {
             OracleConnection cn = new ConnectionOracle().getConnection();
             try
@@ -304,9 +367,9 @@ namespace APIPCHY.Models.HTNguoiDung
                 OracleCommand cmd = new OracleCommand();
                 cmd.Connection = cn;
                 cmd.CommandType = CommandType.StoredProcedure;
-                cmd.CommandText = "PKG_QLTN_TANH.search_HT_NGUOIDUNG";
+                cmd.CommandText = @"PKG_QLTN_TANH.search_HT_NGUOIDUNG";
 
-                // Add input parameters with checks for null or empty
+                // Thêm các tham số đầu vào
                 cmd.Parameters.Add("p_HO_TEN", OracleDbType.Varchar2).Value = string.IsNullOrEmpty(request.HO_TEN) ? (object)DBNull.Value : request.HO_TEN;
                 cmd.Parameters.Add("p_TEN_DANG_NHAP", OracleDbType.Varchar2).Value = string.IsNullOrEmpty(request.TEN_DANG_NHAP) ? (object)DBNull.Value : request.TEN_DANG_NHAP;
                 cmd.Parameters.Add("p_TRANG_THAI", OracleDbType.Int32).Value = request.TRANG_THAI.HasValue ? (object)request.TRANG_THAI.Value : DBNull.Value;
@@ -314,12 +377,33 @@ namespace APIPCHY.Models.HTNguoiDung
                 cmd.Parameters.Add("p_DM_PHONGBAN_ID", OracleDbType.Varchar2).Value = string.IsNullOrEmpty(request.DM_PHONGBAN_ID) ? (object)DBNull.Value : request.DM_PHONGBAN_ID;
                 cmd.Parameters.Add("p_DM_CHUCVU_ID", OracleDbType.Varchar2).Value = string.IsNullOrEmpty(request.DM_CHUCVU_ID) ? (object)DBNull.Value : request.DM_CHUCVU_ID;
 
+                // Thêm tham số cho phân trang
+                cmd.Parameters.Add("p_pageNumber", OracleDbType.Int32).Value = request.PageNumber; // Số trang hiện tại
+                cmd.Parameters.Add("p_pageSize", OracleDbType.Int32).Value = request.PageSize;     // Kích thước trang
+
+                // Thêm tham số tổng số bản ghi (chuyển sang kiểu Decimal để tránh lỗi)
+                cmd.Parameters.Add("p_totalRecords", OracleDbType.Decimal).Direction = ParameterDirection.Output;
+
+                // Thêm tham số để trả về dữ liệu
                 cmd.Parameters.Add("p_getDB", OracleDbType.RefCursor).Direction = ParameterDirection.Output;
 
+                // Thực hiện truy vấn
                 OracleDataAdapter dap = new OracleDataAdapter(cmd);
                 DataSet ds = new DataSet();
                 dap.Fill(ds);
 
+                // Lấy tổng số bản ghi từ tham số out
+                if (cmd.Parameters["p_totalRecords"].Value != DBNull.Value)
+                {
+                    var oracleDecimalValue = (Oracle.ManagedDataAccess.Types.OracleDecimal)cmd.Parameters["p_totalRecords"].Value;
+                    totalRecords = oracleDecimalValue.ToInt32();
+                }
+                else
+                {
+                    totalRecords = 0; // Không có bản ghi, gán tổng số là 0
+                }
+
+                // Xử lý kết quả trả về
                 if (ds.Tables.Count > 0 && ds.Tables[0].Rows.Count > 0)
                 {
                     List<UserResponse> results = new List<UserResponse>();
@@ -329,7 +413,7 @@ namespace APIPCHY.Models.HTNguoiDung
                         {
                             HO_TEN = dr["HO_TEN"] != DBNull.Value ? dr["HO_TEN"].ToString() : null,
                             TEN_DANG_NHAP = dr["TEN_DANG_NHAP"] != DBNull.Value ? dr["TEN_DANG_NHAP"].ToString() : null,
-                            TRANG_THAI = dr["TRANG_THAI"] != DBNull.Value ? Convert.ToInt32(dr["TRANG_THAI"]) : 0, 
+                            TRANG_THAI = dr["TRANG_THAI"] != DBNull.Value ? Convert.ToInt32(dr["TRANG_THAI"]) : 0,
                             TEN_DONVI = dr["TEN_DONVI"] != DBNull.Value ? dr["TEN_DONVI"].ToString() : null,
                             TEN_PHONGBAN = dr["TEN_PHONGBAN"] != DBNull.Value ? dr["TEN_PHONGBAN"].ToString() : null,
                             TEN_CHUCVU = dr["TEN_CHUCVU"] != DBNull.Value ? dr["TEN_CHUCVU"].ToString() : null,
@@ -341,6 +425,7 @@ namespace APIPCHY.Models.HTNguoiDung
                 }
                 else
                 {
+                    totalRecords = 0; // Không có bản ghi, gán tổng số là 0
                     return new List<UserResponse>();
                 }
             }
@@ -357,5 +442,7 @@ namespace APIPCHY.Models.HTNguoiDung
                 }
             }
         }
+
+
     }
 }

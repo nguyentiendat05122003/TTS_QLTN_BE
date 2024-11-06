@@ -14,12 +14,14 @@ namespace APIPCHY.Models.HTNguoiDung
         public string DM_DONVI_ID { get; set; }
         public string DM_PHONGBAN_ID { get; set; }
         public string DM_CHUCVU_ID { get; set; }
+
+        public int PageNumber { get; set; } 
+        public int PageSize { get; set; }
     }
 
 
     public class UserResponse : NguoidungManager
     {
-
         public string TEN_DONVI { get; set; }
         public string TEN_PHONGBAN { get; set; }
         public string TEN_CHUCVU { get; set; }

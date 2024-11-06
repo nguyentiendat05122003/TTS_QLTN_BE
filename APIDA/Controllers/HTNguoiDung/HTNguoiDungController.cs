@@ -86,18 +86,47 @@ namespace APIPCHY.Controllers.HTNguoiDung
             _userService.Update_HT_NGUOIDUNG(nd);
         }
 
+        //[HttpPost("search")]
+        //public IActionResult FilterUsers([FromBody] UserFilterRequest request)
+        //{
+        //    try
+        //    {
+        //        List<UserResponse> users = _userService.FILTER_HT_NGUOIDUNG(request);
+        //        return Ok(users);
+        //    }
+        //    catch (Exception ex)
+        //    {
+        //        return StatusCode(500, ex.Message);
+        //    }
+        //}
 
         [HttpPost("search")]
         public IActionResult FilterUsers([FromBody] UserFilterRequest request)
         {
             try
             {
-                List<UserResponse> users = _userService.FILTER_HT_NGUOIDUNG(request);
-                return Ok(users);
+                // Gọi phương thức FILTER_HT_NGUOIDUNG từ service
+                int totalRecords;
+                List<UserResponse> users = _userService.FILTER_HT_NGUOIDUNG(request, out totalRecords);
+
+                // Tính tổng số trang
+                int totalPages = (int)Math.Ceiling((double)totalRecords / request.PageSize);
+
+                // Tạo đối tượng ẩn danh để trả về
+                var result = new
+                {
+                    page = request.PageNumber,
+                    TotalRecords = totalRecords,
+                    TotalPages = totalPages,
+                    PageSize = request.PageSize,
+                    Data = users
+                };
+
+                return Ok(result); // Trả về kết quả với mã trạng thái 200
             }
             catch (Exception ex)
             {
-                // Log the exception (có thể sử dụng logging framework)
+                // Trả về mã lỗi 500 và thông điệp lỗi
                 return StatusCode(500, ex.Message);
             }
         }
